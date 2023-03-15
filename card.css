@@ -1,0 +1,30 @@
+.div1{
+    background-color: black;
+    margin: 50px;
+    border-radius: 0px;
+    height: 400px;
+    width: 600px;
+}
+.head2{
+    color: white;
+    padding:20px ;
+
+}
+.head3{
+    color: orangered;
+    padding: 20px;
+}
+.div2{
+    background-color: orangered;
+    color: white;
+    padding:20px;
+}
+.div3{
+    background-color: white;
+    color: black;
+    width: 600px;
+    height: 200px;
+}
+.para2{
+    margin-left: 20px;
+}

@@ -1,0 +1,67 @@
+.mother{
+    background-color: rgb(207, 12, 12);
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+}
+.sister{
+    background-color: rgb(124, 23, 219);
+    height: 400px;
+    width: 800px;
+    margin: 50px;
+}
+.child{
+    background-color: rgb(13, 180, 180);
+    height: 400px;
+    width: 400px;
+}
+.first{
+    float: left;
+    background-color: white;
+    
+
+
+}
+.second{
+    float: right;
+    background-color: rgb(96, 96, 243);
+}
+/*Twitter logo*/
+.logo{
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 50px;
+
+}
+/* image on blue div */
+.puppy{
+    height: 150px;
+    width:150px;
+    padding: 50px;
+
+}
+/* login credentials */
+.write{
+    border: 0px black;
+    box-shadow: 1px 2px 1px blue;
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 5px;
+    color: gray;
+
+
+}
+/* password forgotten */
+    .forgot{
+        margin-left: 100px;
+    }
+    .button{
+        border: 0px;background-color: rgb(93, 93, 237);
+        margin-left: 100px;
+        width: 200px;
+        padding: 15px;
+    }
+    h2.center{
+        text-align: center;
+    }

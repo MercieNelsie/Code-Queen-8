@@ -1,0 +1,46 @@
+.motherbox{
+    border: 10px green dashed;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+
+}
+#bay{
+    height: 200px;
+    width: 200px;
+    border-top: 10px red dotted ;
+    border-bottom:  5px blue dashed;
+    border-left:brown 15px double ;
+    border-right: yellow 10px solid;
+}
+.box1{
+    border-radius: 5px;
+    border: red solid;
+    width: 800px;
+    height: 800px;
+    margin: 100px 50px;
+    box-shadow: 50px 50px gray;
+}
+#box2{
+    width: 400px;
+    height: 400px;
+    padding: 100px;
+    border: 20px hotpink solid;
+    background-color: rgb(245, 245, 245);
+    border-top-left-radius: 50px;
+    margin: auto;
+    margin-top: 40px;
+     border-top-color:rgb(53, 53, 125) ;
+     box-shadow: 20px 20px 10px rgb(238, 77, 104);
+    
+}
+.box3{
+    background-color: aqua;
+    border: 20px maroon double;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 50px rgb(175, 83, 175);
+    box-shadow: ;
+}
